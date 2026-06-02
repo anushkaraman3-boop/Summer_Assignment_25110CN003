@@ -1,8 +1,4 @@
-// Write a program to Find sum of digits of a number.  
-// Q6 Write a program to Reverse a number. TCS, Infosys, Wipro 
-// Q7 Write a program to Find product of digits. TCS, Infosys, Wipro 
-// Q8 Write a program to Check whether a number is 
-// palindrome. 
+// Write a program to Find sum of digits of a number.   
 #include<stdio.h>
 int main(){
 
