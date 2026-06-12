@@ -1,5 +1,4 @@
-// Write a program to Print reverse number 
-// triangle. 
+// Write a program to Print reverse number triangle. 
  
 // 12345 
 // 1234 
